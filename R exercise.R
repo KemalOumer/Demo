@@ -1,4 +1,4 @@
-vector_4<-c(NA, 3,NA, 4,NA,12)
+vector_4<-c(NA, 3,NA, 4,NA,13)
 vector_4[is.na(vector_4)]<-0
 vec1<-1:10
 vec1[vec1>5]
